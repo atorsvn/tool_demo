@@ -1,0 +1,2109 @@
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the capital of Canada?
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "capital of Canada"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a riddle!
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 56 multiplied by 3.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "56 * 3"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the time in Sydney?
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "current time in Sydney"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find a recipe for pancakes.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "pancake recipe"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a funny joke!
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "Why don't scientists trust atoms? Because they make up everything!"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate the square root of 144.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "sqrt(144)"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the current date?
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "current date"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find information about Albert Einstein.
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Albert Einstein"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set a reminder to call John at 5 PM tomorrow.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set reminder to call John at 5 PM tomorrow"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the top 10 movies of all time.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "top 10 movies of all time"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me an interesting fact about space.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "In space, there is a floating lake. It contains 140 trillion times the amount of water in all the world's oceans combined."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 18 divided by 3.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "18 / 3"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of Brazil?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of Brazil"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 7 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 7 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best restaurants in New York City.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best restaurants in New York City"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a famous quote.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The only way to do great work is to love what you do. - Steve Jobs"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate the area of a rectangle with length 12 units and width 8 units.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "12 * 8"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the weather forecast for tomorrow in London?
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "weather forecast for tomorrow in London"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find me a recipe for vegetable stir-fry.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "vegetable stir-fry recipe"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a joke about cats.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "Why was the cat sitting on the computer? To keep an eye on the mouse!"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 2 to the power of 6.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "2^6"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the time difference between New York and Los Angeles?
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "time difference between New York and Los Angeles"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find information about the Taj Mahal.
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Taj Mahal"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set a reminder to take medication at 10 AM and 8 PM daily.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set reminder to take medication at 10 AM and 8 PM daily"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best hiking trails in California.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best hiking trails in California"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a fun fact about animals.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "Sea otters hold hands when they sleep to prevent drifting apart."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 15 plus 28.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "15 + 28"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a poem about nature.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The sun, with all those planets revolving around it and dependent on it, can still ripen a bunch of grapes as if it had nothing else in the universe to do. - Galileo Galilei"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Who is the author of the book "To Kill a Mockingbird"?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Author of To Kill a Mockingbird"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set a countdown timer for my vacation in 30 days.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set countdown timer for vacation in 30 days"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Look up the benefits of yoga.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "benefits of yoga"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a joke about programmers.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "Why do programmers prefer dark mode? Because light attracts bugs!"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate the volume of a sphere with a radius of 5 units.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "4/3 * pi * 5^3"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the weather forecast for the weekend in Chicago?
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "weather forecast for the weekend in Chicago"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find me a recipe for chicken curry.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "chicken curry recipe"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a joke about dogs.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "Why did the dog sit in the shade? Because it didn't want to be a hot dog!"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 10 divided by 2.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "10 / 2"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of India?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of India"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 6:30 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 6:30 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best beaches in Hawaii.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best beaches in Hawaii"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a random fact about the human body.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "Your brain generates enough electricity to power a lightbulb!"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 3 to the power of 4.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "3^4"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the time difference between London and New York?
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "time difference between London and New York"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find information about Marie Curie.
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Marie Curie"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set a reminder to water the plants every two days.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set reminder to water the plants every two days"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best pizza places in Italy.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best pizza places in Italy"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me an interesting fact about the Great Wall of China.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The Great Wall of China is not visible from space with the naked eye. It's a myth!"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 12 multiplied by 5.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "12 * 5"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a poem about love.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "Love is an endless act of forgiveness. Forgiveness is the key to action and freedom. - Byron Katie"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Who is the director of the movie "Inception"?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Director of Inception"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set a countdown timer for my birthday in 60 days.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set countdown timer for birthday in 60 days"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Look up the health benefits of green tea.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "health benefits of green tea"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a joke about smartphones.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "Why did the smartphone go to therapy? It had too many apps to sort through its feelings!"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate the volume of a cylinder with a radius of 6 units and height of 10 units.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "pi * 6^2 * 10"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the weather forecast for the next week in San Francisco?
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "weather forecast for next week in San Francisco"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find me a recipe for spaghetti carbonara.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "spaghetti carbonara recipe"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a joke about birds.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "Why did the pigeon go to school? To improve its 'coo'-linary skills!"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 20 divided by 4.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "20 / 4"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of Japan?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of Japan"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 8 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 8 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best hiking trails in Switzerland.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best hiking trails in Switzerland"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a random fact about the human brain.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The human brain is about 73% water."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 5 to the power of 3.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "5^3"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the time difference between Paris and Berlin?
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "time difference between Paris and Berlin"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find information about Leonardo da Vinci.
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Leonardo da Vinci"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set a reminder to feed the cat at 12 PM and 6 PM daily.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set reminder to feed the cat at 12 PM and 6 PM daily"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best ski resorts in Colorado.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best ski resorts in Colorado"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me an interesting fact about the Amazon rainforest.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The Amazon rainforest produces 20% of the world's oxygen."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 7 multiplied by 9.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "7 * 9"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of Russia?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of Russia"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 9:15 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 9:15 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best sushi restaurants in Tokyo.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best sushi restaurants in Tokyo"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a fun fact about the universe.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "There are more stars in the universe than there are grains of sand on all the beaches on Earth."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 4 to the power of 5.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "4^5"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the time difference between New York and London?
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "time difference between New York and London"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find information about Rosa Parks.
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Rosa Parks"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set a reminder to take out the trash every Monday and Thursday.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set reminder to take out the trash every Monday and Thursday"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best surfing spots in Hawaii.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best surfing spots in Hawaii"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a random fact about the solar system.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "Saturn's density is so low that it would float on water if there were a body of water large enough."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 8 divided by 2.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "8 / 2"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of the United Kingdom?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of the United Kingdom"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 7:45 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 7:45 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best art museums in the world.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best art museums in the world"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a fascinating fact about ancient history.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The Great Pyramid of Giza was built over 4,500 years ago and is the oldest of the Seven Wonders of the Ancient World."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 9 multiplied by 7.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "9 * 7"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of Australia?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of Australia"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 5:30 PM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 5:30 PM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best jazz clubs in New Orleans.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best jazz clubs in New Orleans"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me an amazing fact about the animal kingdom.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The blue whale is the largest animal to have ever existed on Earth, even larger than the biggest dinosaurs."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 6 to the power of 4.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "6^4"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the time difference between Tokyo and Sydney?
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "time difference between Tokyo and Sydney"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find information about Isaac Newton.
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Isaac Newton"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set a reminder to submit the report on the 25th of this month.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set reminder to submit report on the 25th of this month"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best mountain biking trails in Colorado.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best mountain biking trails in Colorado"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a random fact about the human heart.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "Your heart can keep beating even if it's separated from your body because it has its own electrical impulse."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 10 divided by 5.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "10 / 5"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of Canada?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of Canada"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 9:30 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 9:30 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best art galleries in Paris.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best art galleries in Paris"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a fascinating fact about ancient civilizations.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The ancient city of Rome had a population of over one million people, making it the largest city in the world at that time."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 3 multiplied by 9.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "3 * 9"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of Germany?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of Germany"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 6 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 6 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best beaches in Australia.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best beaches in Australia"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me an interesting fact about the human eye.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The human eye can distinguish between approximately 10 million different colors."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 2 to the power of 8.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "2^8"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the time difference between Los Angeles and Chicago?
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "time difference between Los Angeles and Chicago"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find information about Nelson Mandela.
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Nelson Mandela"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set a reminder to buy groceries every Sunday.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set reminder to buy groceries every Sunday"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best skiing destinations in Europe.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best skiing destinations in Europe"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a random fact about the human body.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "Your taste buds have a lifespan of about 10 to 14 days."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 11 divided by 2.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "11 / 2"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of France?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of France"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 4 PM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 4 PM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best museums in New York City.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best museums in New York City"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a fascinating fact about astronomy.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "A day on Venus is longer than a year on Venus. It takes about 243 Earth days for Venus to complete one rotation on its axis, but only about 225 Earth days to orbit the Sun."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 15 multiplied by 6.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "15 * 6"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of Brazil?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of Brazil"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 3:15 PM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 3:15 PM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best hiking trails in New Zealand.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best hiking trails in New Zealand"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a random fact about the universe.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The universe is estimated to be about 13.8 billion years old, according to the Big Bang theory."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 4 to the power of 6.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "4^6"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the time difference between Sydney and Los Angeles?
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "time difference between Sydney and Los Angeles"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find information about Albert Einstein.
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Albert Einstein"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set a reminder to call mom on her birthday.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set reminder to call mom on her birthday"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best hiking trails in Canada.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best hiking trails in Canada"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me an interesting fact about the human brain.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The brain is the most energy-demanding organ in the human body, using about 20% of the body's total energy."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 9 divided by 3.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "9 / 3"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of Spain?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of Spain"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 8:45 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 8:45 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best coffee shops in Seattle.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best coffee shops in Seattle"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a fascinating fact about ancient Egypt.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The Great Pyramid of Giza was originally covered in highly polished white limestone, making it shine brightly in the sun."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 12 multiplied by 7.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "12 * 7"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of Mexico?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of Mexico"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 7:15 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 7:15 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best wildlife sanctuaries in India.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best wildlife sanctuaries in India"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a random fact about the human skeleton.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "There are 206 bones in the adult human body."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 5 to the power of 2.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "5^2"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the time difference between Beijing and Moscow?
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "time difference between Beijing and Moscow"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find information about Leonardo da Vinci.
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Leonardo da Vinci"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set a reminder to submit the monthly report on the 15th of every month.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set reminder to submit monthly report on the 15th of every month"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best snorkeling spots in the Caribbean.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best snorkeling spots in the Caribbean"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a fascinating fact about the history of photography.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The first permanent photograph was taken in 1826 by Joseph Nicéphore Niépce. It is known as 'View from the Window at Le Gras.'"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 6 divided by 2.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "6 / 2"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of Italy?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of Italy"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 6:30 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 6:30 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best amusement parks in the United States.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best amusement parks in the United States"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me an interesting fact about the human immune system.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The human immune system can distinguish between thousands of different antigens, helping the body defend against infections and diseases."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 10 multiplied by 8.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "10 * 8"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of India?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of India"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 5:45 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 5:45 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best vineyards in Napa Valley.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best vineyards in Napa Valley"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a random fact about the human respiratory system.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "An average person breathes about 20,000 times per day."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 7 to the power of 3.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "7^3"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the time difference between Dubai and London?
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "time difference between Dubai and London"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find information about Marie Curie.
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Marie Curie"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set a reminder to water the plants every other day.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set reminder to water the plants every other day"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best scuba diving spots in the Maldives.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best scuba diving spots in the Maldives"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a fascinating fact about ancient Greece.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The ancient Greeks were the first to introduce the concept of citizenship and democracy."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 14 divided by 2.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "14 / 2"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of South Africa?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of South Africa"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 7 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 7 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best beaches in Thailand.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best beaches in Thailand"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me an interesting fact about the human digestive system.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The small intestine is about 22 feet long, and the large intestine is about 5 feet long."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 3 to the power of 5.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "3^5"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the time difference between Tokyo and New York?
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "time difference between Tokyo and New York"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find information about Alexander the Great.
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Alexander the Great"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set a reminder to pay the bills on the 1st of every month.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set reminder to pay the bills on the 1st of every month"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best wildlife safaris in Africa.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best wildlife safaris in Africa"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a random fact about the human nervous system.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The nervous system is made up of over 100 billion nerve cells, called neurons."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 8 divided by 4.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "8 / 4"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of Japan?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of Japan"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 9:45 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 9:45 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best ski resorts in Switzerland.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best ski resorts in Switzerland"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a fascinating fact about ancient Rome.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The ancient Romans used a system of aqueducts to transport water over long distances, allowing for a constant water supply in the city."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 16 multiplied by 3.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "16 * 3"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of Egypt?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of Egypt"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 8:15 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 8:15 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best cycling routes in France.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best cycling routes in France"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me an interesting fact about the human circulatory system.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The human heart pumps about 2,000 gallons (7,571 liters) of blood each day."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 5 to the power of 3.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "5^3"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the time difference between Mumbai and New York?
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "time difference between Mumbai and New York"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find information about Leonardo da Vinci.
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Leonardo da Vinci"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set a reminder to submit the project report on the 10th of this month.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set reminder to submit project report on the 10th of this month"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best national parks in the United States.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best national parks in the United States"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a random fact about the human muscular system.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The human body has over 600 muscles."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 9 divided by 3.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "9 / 3"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of Germany?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of Germany"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 6:45 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 6:45 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best snorkeling spots in Hawaii.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best snorkeling spots in Hawaii"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a fascinating fact about ancient China.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The Great Wall of China is the longest wall in the world, stretching over 13,000 miles (21,196 kilometers)."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 11 multiplied by 5.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "11 * 5"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of Russia?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of Russia"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 7:30 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 7:30 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best wine regions in California.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best wine regions in California"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me an interesting fact about the human endocrine system.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The endocrine system is responsible for producing and regulating hormones in the body."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 2 to the power of 10.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "2^10"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the time difference between Paris and Rome?
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "time difference between Paris and Rome"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Find information about William Shakespeare.
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "William Shakespeare"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set a reminder to walk the dog every morning.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set reminder to walk the dog every morning"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best surfing spots in Hawaii.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best surfing spots in Hawaii"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a random fact about the human reproductive system.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The female ovaries contain over 400,000 follicles at birth, but only about 400 of them will mature and release eggs during a woman's reproductive years."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 6 divided by 3.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "6 / 3"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of Indonesia?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of Indonesia"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 8 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 8 AM"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Search for the best hiking trails in California.
+Assistant: 
+{
+  "action": "Search",
+  "action_input": "best hiking trails in California"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Tell me a fascinating fact about ancient Egypt.
+Assistant: 
+{
+  "action": "Chat",
+  "action_input": "The ancient Egyptians used hieroglyphics, a system of writing using pictures and symbols, to communicate and record information."
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Calculate 13 multiplied by 4.
+Assistant: 
+{
+  "action": "Calc",
+  "action_input": "13 * 4"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: What's the population of Canada?
+Assistant: 
+{
+  "action": "Wiki",
+  "action_input": "Population of Canada"
+}
+<|endoftext|>
+
+
+System: You are a helpful assistant with 5 tools. Chat, Calc, Time, Search, or Wiki.
+Human: Set an alarm for 9:15 AM.
+Assistant: 
+{
+  "action": "Time",
+  "action_input": "set alarm for 9:15 AM"
+}
+<|endoftext|>
+
